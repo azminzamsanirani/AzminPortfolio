@@ -1,33 +1,29 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Software Developer",
+            "subtitle": "CAD-IT Consultants (M) Sdn Bhd",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Worked as a software developer in the IoT team.",
+                "Demonstrated proficiency in utilizing NODE-Red, streamlining development processes for efficient communication within IoT projects.",
+                "Engaged extensively with Siemens products, specifically Mindsphere or Insights Hub, contributing to the optimization of applications and overall efficiency of IoT solutions.",
+                "Possess a strong knowledge of communication protocols, including MQTT, TCP, and UDP, crucial for ensuring seamless data exchange and connectivity within IoT ecosystems."
+                
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "April 2023 - Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Intern Full Stack Developer",
+            "subtitle": "Digital Penang Sdn Bhd",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Worked in a team using agile scrum framework.",
+                "Utilized Vue.js for front-end features, Loopback on Node.js for RESTful APIs, and MySQL for database management.",
+                "Deployed applications on Google Cloud Platform (GCP) and integrated with Firebase for real-time data storage and authentication.",
+                "Contributed to the development of new features and improvements of existing ones."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Sep 2022 - Feb 2023"
         }
     ]
 }
