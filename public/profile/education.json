@@ -1,19 +1,22 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "Aug 2019 — Feb 2023",
+            "cardTitle": "Bachelor of Computer Science (Honours)",
+            "cardSubtitle":"University Technology MARA, Tapah, Perak",
+            "cardDetailedText": "CGPA - 3.74"
         },
         {
-            "title": "Apr 20XX",
+            "title": "Jun 2018 — Apr 2019",
+            "cardTitle": "Foundation In Engineering",
+            "cardSubtitle":"University Technology MARA, Dengkil, Selangor",
+            "cardDetailedText": "CGPA: 3.22"
+        },
+        {
+            "title": "Feb 2016 — Dec 2017",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"Royal Military College",
+            "cardDetailedText": "Sijil Pelajaran Malaysia (SPM)"
         }
     ]
 }
